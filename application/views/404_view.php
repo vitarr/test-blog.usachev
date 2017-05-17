@@ -1,6 +1,6 @@
 <title>404 – страница не найдена</title>
 <meta charset="utf-8">
-<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon"/>
+<link rel="shortcut icon" href="<?= 'http://' . $_SERVER['HTTP_HOST'] . '/' ?>images/favicon.ico" type="image/x-icon"/>
 <link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,400,700&subset=latin,cyrillic' rel='stylesheet'
       type='text/css'>
 <style>

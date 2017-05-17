@@ -23,7 +23,7 @@ class Model_Note extends Model
      */
     public function __construct()
     {
-        $this-$this->db_connect();
+        $this->db_connect();
     }
 
     protected function get_data()

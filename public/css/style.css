@@ -1871,6 +1871,9 @@ a.more:hover {
         padding: 0.3em 0;
         margin: 0;
     }
+    ul.links{
+        height: 50px;
+    }
 }
 
 /*-- responsive-mediaquries --*/

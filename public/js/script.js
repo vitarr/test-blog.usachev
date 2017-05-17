@@ -25,6 +25,7 @@ $(document).ready(function () {
                 $('#content_notes').html(res);
                 $('#note_text').val('');
                 $('#note_username').val('');
+                $('#content').click();
             }
         });
         return false;

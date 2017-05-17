@@ -2,6 +2,6 @@
 const DB = array(
     'host' => 'localhost',
     'user' => 'root',
-    'password' => '',
+    'password' => 'vfhfrfy',
     'db' => 'test_blog',
 );
